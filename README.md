@@ -1,2 +1,2 @@
 # PowerBI
-reports on different topics using Microsoft PowerBI Desktop
+Reports on different topics created using Microsoft PowerBI Desktop
